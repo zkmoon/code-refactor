@@ -1,1 +1,1 @@
-hello world
+Refactored the css files to prevent dry code.
